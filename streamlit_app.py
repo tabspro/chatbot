@@ -11,7 +11,7 @@ st.set_page_config(
     
 )
 st.title("💬 Infinitee - An Intelligent Assistant")
-image="images/logo.jpg"
+image="images/logo.png"
 
 st.image(image, caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 # Show title and description.
